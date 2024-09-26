@@ -1,0 +1,50 @@
+body{
+    background: url("stud.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pig{
+    background-color;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px 20px 30px;
+    border-radius: 20px;
+}
+h2{
+    color: red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 0.5px;
+}
+.main label{
+    display: block;
+    text-decoration: underline;
+    font-size: x-large;
+    padding: 10px 2px ;
+    margin-left: 50px;
+}
+.main input{
+    width: 80%;
+    height: 25px;
+    margin-left: 50px;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 10px;
+}
+.gen {
+    font-size: 30px;
+    color:red;
+    padding: 5px 3px;
+    margin-left: 45px;
+    transform: scale(20px);
+    
+}
+.button button{
+    margin-top: 30px;
+    padding:5px;
+    font-size: 30px;
+    margin-left: 180px;
+    border-radius: 10px;
+}
